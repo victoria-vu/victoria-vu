@@ -3,7 +3,7 @@
 - 👋🏻 Hi, I'm Victoria!
 - 👩🏻‍💻 I'm a Junior Full-Stack Developer.
 - 🌱 I’m currently learning **React**. 
-- 📫 Message me through <a href="mailto:victoriamvvu@gmail.com">email</a> or on <a href="https://www.linkedin.com/in/victoriamvvu/">LinkedIn</a>! 
+- 📫 Message me through <a href="mailto:victoriamvvu@gmail.com">Email</a> or on <a href="https://www.linkedin.com/in/victoriamvvu/">LinkedIn</a>! 
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
