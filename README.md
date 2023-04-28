@@ -3,7 +3,7 @@
 - 👋🏻 Hi, I'm Victoria!
 - 👩🏻‍💻 I'm a Junior Full-Stack Developer.
 - 🌱 I’m currently learning **React**. 
-- ⌨️ I'm current working on <a href="https://github.com/victoria-vu/Product-Preview-Card">Product Preview Card</a>.
+- ⌨️ I'm current working on <a href="https://github.com/victoria-vu/QR-Code-Component">QR Code Component</a>.
 - 📫 Message me through <a href="mailto:victoriamvvu@gmail.com">Email</a> or on <a href="https://www.linkedin.com/in/victoriamvvu/">LinkedIn</a>! 
   
 <h3 align="left">Languages and Tools:</h3>
