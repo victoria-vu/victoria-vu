@@ -1,7 +1,7 @@
 <h3 align="left">About Me:</h3>
 
 - 👋🏻 Hi, I'm Victoria!
-- 📫 Message me through <a href="mailto:victoriamvvu@gmail.com">Email</a> or on <a href="https://www.linkedin.com/in/victoriamvvu/">LinkedIn</a>! 
+- 📫 Message me through <a href="mailto:vvvu@g.ucla.edu">email</a> to get in touch!
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
